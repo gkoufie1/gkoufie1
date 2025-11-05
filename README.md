@@ -82,18 +82,18 @@ I love automating everything that can be automated and turning cloud ideas into 
 ---
 
 ## 📊 GitHub Stats
-![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeKoufie&show_icons=true&theme=radical)
+![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gkoufie1&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeKoufie&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GKoufie1&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeorgeKoufie&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GKoufie1&theme=radical)
 
 ---
 
 ## 💬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/georgekoufie)  
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@GeorgeKoufie)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:georgekoufie@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/george-koufie)  
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@cloudcapecoast)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:gkoufie224@gmail.com)  
 
 ---
 
