@@ -7,7 +7,8 @@
 
 ## 🚀 About Me
 I’m a passionate Cloud & DevOps Engineer helping businesses scale with **AWS, Azure, Docker, Kubernetes, Jenkins, Terraform, GitHub Actions, Ansible, and Linux**.  
-I love automating everything that can be automated and turning cloud ideas into **scalable, reliable solutions**.  
+I love automating everything that can be automated and turning cloud ideas into **scalable, reliable solutions**.
+💼 [LinkedIn](https://www.linkedin.com/in/george-koufie)  - 🎥 [YouTube](https://www.youtube.com/@cloudcapecoast)  
 
 ---
 
@@ -28,7 +29,7 @@ I love automating everything that can be automated and turning cloud ideas into 
 - AWS, Azure, Docker, Jenkins, Terraform, CI/CD pipelines, Infrastructure as Code.
 
 **📫 How to reach me:**  
-- 📧 georgekoufie224@gmail.com  - 💼 [LinkedIn](https://www.linkedin.com/in/george-koufie)  - 🎥 [YouTube](https://www.youtube.com/@cloudcapecoast)  
+- 📧 georgekoufie224@gmail.com  - 
 
 **👨‍💻 All of my projects are available at:**  
 - 🔗 [GitHub Portfolio](https://github.com/GKoufie1?tab=repositories)  
