@@ -92,7 +92,7 @@ I love automating everything that can be automated and turning cloud ideas into 
 ## 💬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/george-koufie)  
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@cloudcapecoast)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:gkoufie224@gmail.com)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:george.koufiee@gmail.com)  
 
 ---
 
