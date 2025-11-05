@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi 👋, I'm George Koufie
+**I am George Koufie**
 ### Cloud & DevOps Engineer | AWS & Azure Expert | Building Scalable Infrastructure with Automation
 
 ---
