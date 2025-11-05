@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**gkoufie1/gkoufie1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Let's Build
 
 # Hi 👋, I'm George Koufie
 ### Cloud & DevOps Engineer | AWS & Azure Expert | Building Scalable Infrastructure with Automation
