@@ -33,7 +33,7 @@ I love automating everything that can be automated and turning cloud ideas into 
 - 🎥 [YouTube](https://www.youtube.com/@cloudcapecoast)  
 
 **👨‍💻 All of my projects are available at:**  
-- 🔗 [GitHub Portfolio](https://github.com/GKoufie1)  
+- 🔗 [GitHub Portfolio](https://github.com/GKoufie1?tab=repositories)  
 
 **⚡ Fun Fact:**  
 - I automate everything that can be automated 😄  
