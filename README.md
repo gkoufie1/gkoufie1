@@ -29,7 +29,7 @@ I love automating everything that can be automated and turning cloud ideas into 
 - AWS, Azure, Docker, Jenkins, Terraform, CI/CD pipelines, Infrastructure as Code.
 
 **📫 How to reach me:**  
-- 📧 georgekoufie224@gmail.com  - 
+- 📧 george.koufiee@gmail.com  - 
 
 **👨‍💻 All of my projects are available at:**  
 - 🔗 [GitHub Portfolio](https://github.com/GKoufie1?tab=repositories)  
