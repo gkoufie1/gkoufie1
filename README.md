@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-
-** Let's Build
-
 # Hi 👋, I'm George Koufie
 ### Cloud & DevOps Engineer | AWS & Azure Expert | Building Scalable Infrastructure with Automation
 
@@ -33,7 +30,7 @@ I love automating everything that can be automated and turning cloud ideas into 
 **📫 How to reach me:**  
 - 📧 georgekoufie@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/george-koufie)  
-- 🎥 [YouTube](https://www.youtube.com/@GeorgeKoufie)  
+- 🎥 [YouTube](https://www.youtube.com/@cloudcapecoast)  
 
 **👨‍💻 All of my projects are available at:**  
 - 🔗 [GitHub Portfolio](https://github.com/GeorgeKoufie)  
