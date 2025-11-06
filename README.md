@@ -46,9 +46,9 @@ I love automating everything that can be automated and turning cloud ideas into 
 **Repo:** (https://github.com/GKoufie1/react-nodejs-example-main / https://www.youtube.com/watch?v=-fpx7JoiBfQ) 
 
 ### 2️⃣ Dockerized Flask API
-**Description:** RESTful API built with Flask, containerized using Docker, deployed locally and on AWS ECS.  
-**Tech Stack:** Python, Flask, Docker, AWS ECS, Linux  
-**Repo:** [dockerized-flask-api](https://github.com/GeorgeKoufie/dockerized-flask-api)
+**Description:** Containerized using Docker, deployed locally and on AWS ECS.  
+**Tech Stack:** Docker, AWS ECS, Linux  
+**Repo:** [dockerized-flask-api](https://github.com/GeorgeKoufie/dockerized-flask-api / https://www.youtube.com/watch?v=_nVf62rGCDw)
 
 ### 3️⃣ Terraform AWS Infrastructure
 **Description:** Automated AWS infrastructure provisioning using Terraform. Includes VPC, subnets, EC2, S3, and IAM roles.  
