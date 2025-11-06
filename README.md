@@ -48,7 +48,7 @@ I love automating everything that can be automated and turning cloud ideas into 
 ### 2️⃣ Dockerized Flask API
 **Description:** Containerized using Docker, deployed locally and on AWS ECS.  
 **Tech Stack:** Docker, AWS ECS, Linux  
-**Repo:** [dockerized-flask-api](https://github.com/GeorgeKoufie/dockerized-flask-api / https://www.youtube.com/watch?v=_nVf62rGCDw)
+**Repo:** [dockerized-flask-api]([(https://github.com/gkoufie1/DevOps-Project-Two-Tier-Flask-App-main) / https://www.youtube.com/watch?v=_nVf62rGCDw)
 
 ### 3️⃣ Terraform AWS Infrastructure
 **Description:** Automated AWS infrastructure provisioning using Terraform. Includes VPC, subnets, EC2, S3, and IAM roles.  
