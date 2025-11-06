@@ -53,7 +53,7 @@ I love automating everything that can be automated and turning cloud ideas into 
 ### 3️⃣ Terraform AWS Infrastructure
 **Description:** Automated AWS infrastructure provisioning using Terraform. Includes VPC, subnets, EC2, S3, and IAM roles.  
 **Tech Stack:** Terraform, AWS, IaC, GitHub Actions, Cloud Architecture  
-**Repo:** [terraform-aws-infrastructure](https://github.com/GeorgeKoufie/terraform-aws-infrastructure)
+**Repo:** [terraform-aws-infrastructure](https://www.youtube.com/watch?v=4TtK4KT3g44)
 
 ### 4️⃣ Kubernetes Deployment Automation
 **Description:** Multi-container application deployed on a Kubernetes cluster using Helm charts and Docker images. Includes monitoring via Prometheus & Grafana.  
