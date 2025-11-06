@@ -43,7 +43,7 @@ I love automating everything that can be automated and turning cloud ideas into 
 ### 1️⃣ AWS Jenkins CI/CD Pipeline
 **Description:** Fully automated CI/CD pipeline using Jenkins on an AWS EC2 instance. Integrates GitHub repository commits with Dockerized deployment.  
 **Tech Stack:** AWS EC2, Jenkins, Docker, GitHub Actions, Linux  
-**Repo:** [aws-jenkins-ci-cd](https://github.com/GKoufie1/react-nodejs-example-main / https://www.youtube.com/watch?v=-fpx7JoiBfQ) 
+**Repo:** (https://github.com/GKoufie1/react-nodejs-example-main / https://www.youtube.com/watch?v=-fpx7JoiBfQ) 
 
 ### 2️⃣ Dockerized Flask API
 **Description:** RESTful API built with Flask, containerized using Docker, deployed locally and on AWS ECS.  
