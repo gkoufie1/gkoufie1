@@ -58,7 +58,7 @@ I love automating everything that can be automated and turning cloud ideas into 
 ### 4️⃣ Kubernetes Deployment Automation
 **Description:** Multi-container application deployed on a Kubernetes cluster using Helm charts and Docker images. Includes monitoring via Prometheus & Grafana.  
 **Tech Stack:** Kubernetes, Helm, Docker, Prometheus, Grafana, AWS/Azure  
-**Repo:** [kubernetes-deployment-automation](https://github.com/GeorgeKoufie/kubernetes-deployment-automation)
+**Repo:** (https://github.com/gkoufie1/deploying-application-starting-code)
 
 ### 5️⃣ Azure DevOps Pipeline with Terraform
 **Description:** Complete Azure DevOps pipeline integrating Terraform scripts to provision Azure resources and deploy a web application automatically.  
