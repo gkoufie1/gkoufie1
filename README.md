@@ -40,27 +40,32 @@ I love automating everything that can be automated and turning cloud ideas into 
 ---
 
 ## 🏆 Projects
-### 1️⃣ AWS Jenkins CI/CD Pipeline
+### 1 AWS Jenkins CI/CD Pipeline
 **Description:** Fully automated CI/CD pipeline using Jenkins on an AWS EC2 instance. Integrates GitHub repository commits with Dockerized deployment.  
 **Tech Stack:** AWS EC2, Jenkins, Docker, GitHub Actions, Linux  
 **Repo:** (https://github.com/GKoufie1/react-nodejs-example-main / https://www.youtube.com/watch?v=-fpx7JoiBfQ) 
 
-### 2️⃣ Dockerized Flask API
+### 2 Dockerized Flask API
 **Description:** Containerized using Docker, deployed locally and on AWS ECS.  
 **Tech Stack:** Docker, AWS ECS, Linux  
 **Repo:** ((https://github.com/gkoufie1/DevOps-Project-Two-Tier-Flask-App-main) / https://www.youtube.com/watch?v=_nVf62rGCDw)
 
-### 3️⃣ Terraform AWS Infrastructure
+### 3 Terraform AWS Infrastructure
 **Description:** Automated AWS infrastructure provisioning using Terraform. Includes VPC, subnets, EC2, S3, and IAM roles.  
 **Tech Stack:** Terraform, AWS, IaC, GitHub Actions, Cloud Architecture  
 **Repo:** [terraform-aws-infrastructure](https://www.youtube.com/watch?v=4TtK4KT3g44)
 
-### 4️⃣ Kubernetes Deployment Automation
+### 4 Kubernetes Deployment Automation
 **Description:** Multi-container application deployed on a Kubernetes cluster using Helm charts and Docker images. Includes monitoring via Prometheus & Grafana.  
 **Tech Stack:** Kubernetes, Helm, Docker, Prometheus, Grafana, AWS/Azure  
 **Repo:** (https://github.com/gkoufie1/deploying-application-starting-code)
 
-### 5️⃣ Azure DevOps Pipeline with Terraform
+### 5 Kubernetes Deployment Automation
+**Description:** Multi-container application deployed on a Kubernetes cluster using Helm charts and Docker images. Includes monitoring via Prometheus & Grafana.  
+**Tech Stack:** Kubernetes, Helm, Docker, Prometheus, Grafana, AWS/Azure  
+****Repo** https://github.com/gkoufie1/kubernetes-deploying-application-main
+
+### 6 Azure DevOps Pipeline with Terraform
 **Description:** Complete Azure DevOps pipeline integrating Terraform scripts to provision Azure resources and deploy a web application automatically.  
 **Tech Stack:** Azure, Terraform, Azure DevOps, CI/CD, Linux  
 **Repo:** [azure-devops-terraform-pipeline](https://github.com/GeorgeKoufie/azure-devops-terraform-pipeline)
