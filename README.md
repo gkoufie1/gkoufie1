@@ -29,7 +29,7 @@ I love automating everything that can be automated and turning cloud ideas into 
 - AWS, Azure, Docker, Jenkins, Terraform, CI/CD pipelines, Infrastructure as Code.
 
 **📫 How to reach me:**  
-- 📧 george.koufiee@gmail.com  - 
+- 📧 gkoufie224@gmail.com  - 
 
 **👨‍💻 All of my projects are available at:**  
 - 🔗 [GitHub Portfolio](https://github.com/gkoufie1?tab=repositories)  
@@ -73,7 +73,7 @@ I love automating everything that can be automated and turning cloud ideas into 
 ---
 
 ## 📊 GitHub Stats
-![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gkoufie1&show_icons=true&theme=radical)
+![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkoufie1&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gkoufie1&layout=compact&theme=radical)
 
@@ -84,7 +84,7 @@ I love automating everything that can be automated and turning cloud ideas into 
 ## 💬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/george-koufie)  
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@cloudcapecoast)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:george.koufiee@gmail.com)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:gkoufie224@gmail.com)  
 
 ---
 
