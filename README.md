@@ -32,43 +32,30 @@ I love automating everything that can be automated and turning cloud ideas into 
 - 📧 george.koufiee@gmail.com  - 
 
 **👨‍💻 All of my projects are available at:**  
-- 🔗 [GitHub Portfolio](https://github.com/GKoufie1?tab=repositories)  
-
-**⚡ Fun Fact:**  
-- I automate everything that can be automated 😄  
+- 🔗 [GitHub Portfolio](https://github.com/gkoufie1?tab=repositories)  
 
 ---
 
 ## 🏆 Projects
-### 1 AWS Jenkins CI/CD Pipeline
-**Description:** Fully automated CI/CD pipeline using Jenkins on an AWS EC2 instance. Integrates GitHub repository commits with Dockerized deployment.  
-**Tech Stack:** AWS EC2, Jenkins, Docker, GitHub Actions, Linux  
-**Repo:** (https://github.com/GKoufie1/react-nodejs-example-main / https://www.youtube.com/watch?v=-fpx7JoiBfQ) 
+### 1. StoreTrack — Full CI/CD Pipeline with Jenkins & Kubernetes
+**Description:** React/Vite/Express/MongoDB inventory app with a full Jenkins pipeline — lint, test, SonarQube quality gate, Docker build, Kubernetes rollout.  
+**Tech Stack:** React, Vite, Express, MongoDB, Docker, Jenkins, Kubernetes, SonarQube  
+**Repo:** [cicd-jenkins-store](https://github.com/gkoufie1/cicd-jenkins-store)
 
-### 2 Dockerized Flask API
-**Description:** Containerized using Docker, deployed locally and on AWS ECS.  
-**Tech Stack:** Docker, AWS ECS, Linux  
-**Repo:** ((https://github.com/gkoufie1/DevOps-Project-Two-Tier-Flask-App-main) / https://www.youtube.com/watch?v=_nVf62rGCDw)
+### 2. AWS 3-Tier Terraform Infrastructure
+**Description:** Production-style AWS infrastructure in Terraform — ECS Fargate + Aurora PostgreSQL + ALB across two Availability Zones, with a full CI/CD pipeline.  
+**Tech Stack:** Terraform, AWS ECS Fargate, Aurora PostgreSQL, ALB, GitHub Actions  
+**Repo:** [aws-3tier-terraform-project](https://github.com/gkoufie1/aws-3tier-terraform-project)
 
-### 3 Terraform AWS Infrastructure
-**Description:** Automated AWS infrastructure provisioning using Terraform. Includes VPC, subnets, EC2, S3, and IAM roles.  
-**Tech Stack:** Terraform, AWS, IaC, GitHub Actions, Cloud Architecture  
-**Repo:** [terraform-aws-infrastructure](https://www.youtube.com/watch?v=4TtK4KT3g44)
+### 3. GPU MLOps DevOps Platform
+**Description:** GPU workloads on EKS with GitOps (Argo CD), Karpenter autoscaling, Velero disaster recovery, OPA/Falco security controls, and Prometheus/Grafana observability.  
+**Tech Stack:** EKS, Kubernetes, Argo CD, Karpenter, Terraform, Prometheus, Grafana, NVIDIA GPU tooling  
+**Repo:** [gpu-mlops-devops-platform](https://github.com/gkoufie1/gpu-mlops-devops-platform)
 
-### 4 Kubernetes Deployment Automation
-**Description:** Multi-container application deployed on a Kubernetes cluster using Helm charts and Docker images. Includes monitoring via Prometheus & Grafana.  
-**Tech Stack:** Kubernetes, Helm, Docker, Prometheus, Grafana, AWS/Azure  
-**Repo:** (https://github.com/gkoufie1/deploying-application-starting-code)
-
-### 5 Kubernetes Deployment Automation
-**Description:** Multi-container application deployed on a Kubernetes cluster using Helm charts and Docker images. Includes monitoring via Prometheus & Grafana.  
-**Tech Stack:** Kubernetes, Helm, Docker, Prometheus, Grafana, AWS/Azure  
-****Repo** https://github.com/gkoufie1/kubernetes-deploying-application-main
-
-### 6 Azure DevOps Pipeline with Terraform
-**Description:** Complete Azure DevOps pipeline integrating Terraform scripts to provision Azure resources and deploy a web application automatically.  
-**Tech Stack:** Azure, Terraform, Azure DevOps, CI/CD, Linux  
-**Repo:** [azure-devops-terraform-pipeline](https://github.com/GeorgeKoufie/azure-devops-terraform-pipeline)
+### 4. DevOps Incident Response Lab
+**Description:** Hands-on Linux/AWS lab simulating five production incident types, with diagnostic runbooks and remediation automation.  
+**Tech Stack:** Linux, AWS EC2, Bash, Prometheus, Ansible  
+**Repo:** [devops-incident-response-project](https://github.com/gkoufie1/devops-incident-response-project)
 
 ---
 
@@ -88,9 +75,9 @@ I love automating everything that can be automated and turning cloud ideas into 
 ## 📊 GitHub Stats
 ![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gkoufie1&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GKoufie1&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gkoufie1&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GKoufie1&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gkoufie1&theme=radical)
 
 ---
 
