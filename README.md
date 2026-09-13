@@ -67,6 +67,11 @@ I build and ship real infrastructure using **Claude Code and agentic AI workflow
 **Tech Stack:** React, Vite, Express, MongoDB, Docker, Jenkins, Kubernetes, SonarQube
 **Repo:** [cicd-jenkins-store](https://github.com/gkoufie1/cicd-jenkins-store)
 
+### 7. Enterprise API Onboarding Platform (Azure API Management)
+**Description:** A shared Azure API Management platform where onboarding a new API never touches the gateway itself — separate Terraform state for the platform (owns the one APIM instance) versus per-API onboarding (reads platform outputs, can't create, replace, or delete APIM). Verified the real Entra ID auth chain end-to-end: real app registrations, real client-credentials tokens, and a call through the live gateway confirmed by checking for the backend's own CORS headers in the response — proof the request actually reached it, not a synthetic 200 from the gateway. Applied, tested, and fully torn down the same session.
+**Tech Stack:** Azure API Management, Terraform, Entra ID, GitHub OIDC
+**Repo:** [cloud-api-workflow](https://github.com/gkoufie1/cloud-api-workflow)
+
 More real, verified projects — including a Kubernetes-based local LLM serving pipeline, an AI API gateway with real rate limiting and cost enforcement, and a FedRAMP/NIST-aligned landing zone — are on the [full portfolio](https://georgekoufie.online).
 
 ---
@@ -77,6 +82,8 @@ More real, verified projects — including a Kubernetes-based local LLM serving 
 **Cloud & DevOps:** `AWS` • `Azure` • `Docker` • `Kubernetes` • `Jenkins` • `Terraform` • `GitHub Actions` • `Ansible` • `Linux`
 
 **AWS Services:** `IAM` • `Lambda` • `API Gateway` • `DynamoDB` • `Cognito` • `EventBridge` • `Bedrock` • `CloudWatch` • `CloudTrail`
+
+**Azure Services:** `API Management` • `Entra ID` • `Key Vault` • `Application Insights`
 
 **CI/CD & Automation:** `Infrastructure as Code` • `CI/CD Pipelines` • `Agentic AI Workflows (Claude Code)`
 
