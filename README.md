@@ -5,7 +5,6 @@
 ## 🚀 About Me
 Cloud & DevOps engineer with a systems administration foundation — identity management, large-scale endpoint deployment, on-call incident response — building on **both AWS and Azure**: Terraform, CI/CD, Kubernetes, event-driven security automation, and measured disaster-recovery drills.
 
-I build and ship real infrastructure using **Claude Code and agentic AI workflows** as a daily engineering practice, not a side experiment — pairing AI-accelerated development with hands-on verification of every result.
 
 💼 [LinkedIn](https://www.linkedin.com/in/george-koufie) - 🎥 [YouTube](https://www.youtube.com/@cloudcapecoast) - 🌐 [Portfolio](https://georgekoufie.online)
 
