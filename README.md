@@ -81,6 +81,11 @@ Cloud & DevOps engineer with a systems administration foundation — identity ma
 **Tech Stack:** Azure API Management, Terraform, Entra ID, GitHub OIDC
 **Repo:** [cloud-api-workflow](https://github.com/gkoufie1/cloud-api-workflow)
 
+### 10. VMware Provisioning Lab
+**Description:** A nested VMware ESXi 8.0U3e lab (free license) with two VMs and a verified Ansible playbook. Diagnosed a real Hyper-V/VT-x conflict blocking nested virtualization, then confirmed — with the exact same API error appearing across four separate operations — that the free ESXi license blocks VM cloning, OVF deployment, raw datastore file copy, and even power/reconfigure on existing VMs via the API, while Terraform's `vsphere` provider crashes outright reading a VM (it assumes vCenter's tagging API, which doesn't exist on a standalone host). Pivoted the automation to what the host actually supports: `govc` for read-only inventory, Ansible over SSH for real configuration — hardened SSH, installed node_exporter, and deployed a Python health-check tool on a systemd timer, with its own verification and confirmed idempotency.
+**Tech Stack:** VMware ESXi, VMware Workstation, govc, Ansible, Python, Terraform
+**Repo:** [vmware-provisioning-lab](https://github.com/gkoufie1/vmware-provisioning-lab)
+
 More real, verified projects — including a Kubernetes-based local LLM serving pipeline, an AI API gateway with real rate limiting and cost enforcement, and a FedRAMP/NIST-aligned landing zone — are on the [full portfolio](https://georgekoufie.online).
 
 ---
@@ -88,11 +93,13 @@ More real, verified projects — including a Kubernetes-based local LLM serving 
 ## 🧰 Skills
 **Programming & Scripting:** `Python` • `Bash` • `JavaScript`
 
-**Cloud & DevOps:** `AWS` • `Azure` • `Docker` • `Kubernetes` • `Jenkins` • `Terraform` • `GitHub Actions` • `Ansible` • `Linux`
+**Cloud & DevOps:** `AWS` • `Azure` • `VMware` • `Docker` • `Kubernetes` • `Jenkins` • `Terraform` • `GitHub Actions` • `Ansible` • `Linux`
 
 **AWS Services:** `IAM` • `Lambda` • `API Gateway` • `DynamoDB` • `Cognito` • `EventBridge` • `Bedrock` • `CloudWatch` • `CloudTrail`
 
 **Azure Services:** `Site Recovery` • `SQL Database failover groups` • `Recovery Services vault` • `API Management` • `Entra ID` • `Key Vault` • `Application Insights`
+
+**Virtualization:** `VMware ESXi` • `VMware Workstation` • `govc` • `Nested Virtualization`
 
 **CI/CD & Automation:** `Infrastructure as Code` • `CI/CD Pipelines` • `Agentic AI Workflows (Claude Code)`
 
